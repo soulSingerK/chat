@@ -1,0 +1,18 @@
+.left-wrapper {
+  height: 100%;
+  width: 76px;
+  background-color: #EEF7F4;
+  .router-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  .router-item {
+    font-size: 24px;
+    margin-top: 38px;
+    text-align: center;
+    i {
+      color: #00BF8F;
+      cursor: pointer;
+    }
+  }
+}
